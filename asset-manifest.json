@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/cemilanku-web.v12/static/css/main.e7f9bfa7.css",
-    "main.js": "/cemilanku-web.v12/static/js/main.f531b8b6.js",
+    "main.css": "/cemilanku-web.v12/static/css/main.fcc71eed.css",
+    "main.js": "/cemilanku-web.v12/static/js/main.141098e1.js",
+    "static/media/77.jpg": "/cemilanku-web.v12/static/media/77.aaea4bd65a60a078c25f.jpg",
     "static/media/dine-in.png": "/cemilanku-web.v12/static/media/dine-in.230f37e11a031e5b06a2.png",
     "static/media/lumpia.png": "/cemilanku-web.v12/static/media/lumpia.c28ce76d1f68cae074ce.png",
     "static/media/dimsum.jpg": "/cemilanku-web.v12/static/media/dimsum.e168269fd3093bda40d5.jpg",
-    "static/media/lumpia2.jpg": "/cemilanku-web.v12/static/media/lumpia2.8f0cec5cc2f1221a19dc.jpg",
     "static/media/cv.pdf": "/cemilanku-web.v12/static/media/cv.ca936a3ec195225fb27c.pdf",
     "index.html": "/cemilanku-web.v12/index.html",
-    "main.e7f9bfa7.css.map": "/cemilanku-web.v12/static/css/main.e7f9bfa7.css.map",
-    "main.f531b8b6.js.map": "/cemilanku-web.v12/static/js/main.f531b8b6.js.map"
+    "main.fcc71eed.css.map": "/cemilanku-web.v12/static/css/main.fcc71eed.css.map",
+    "main.141098e1.js.map": "/cemilanku-web.v12/static/js/main.141098e1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7f9bfa7.css",
-    "static/js/main.f531b8b6.js"
+    "static/css/main.fcc71eed.css",
+    "static/js/main.141098e1.js"
   ]
 }
